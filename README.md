@@ -1,8 +1,8 @@
 # AltV 14 - Salty Chat
 
 Installation: 
-- Copy all to your resources folder so it looks like this "mods/addon_saltychat"
-- Add "mods/addon_saltychat", to your "Server config file inside the resources section ("resources": ["mods/addon_saltychat",])
+- Copy all to your resources folder so it looks like this "mods/altv-saltychat"
+- Add "mods/altv-saltychat", to your "Server config file inside the resources section ("resources": ["mods/altv-saltychat",])
 - Edit your Server Config File and add the Csharp Module inside the modules section ("modules": ["js-module", "csharp-module"],)
 - Hint: To get the required Module from the altv Website (Server package) you need to tick the Checkbox C# Module & JS Module (https://altv.mp/#/downloads)
 
