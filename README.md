@@ -11,4 +11,4 @@ Installation:
 
 #There will be no further Support for this Resource
 
-Thanks to @deluvas1911, he did a good Job :)
+Thanks to @deluvas1911 & @jonasesser, they did the most of the Job here.
