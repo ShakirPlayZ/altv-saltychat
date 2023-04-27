@@ -10,3 +10,5 @@ Installation:
 - Start the Server & Have Fun
 
 #There will be no further Support for this Resource
+
+Thanks to @deluvas1911, he did a good Job :)
